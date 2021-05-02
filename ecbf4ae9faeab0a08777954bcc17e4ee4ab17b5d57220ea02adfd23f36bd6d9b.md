@@ -1,0 +1,14 @@
+## Transaction ecbf4ae9faeab0a08777954bcc17e4ee4ab17b5d57220ea02adfd23f36bd6d9b
+
+In block [00992cb7a78a3dccb81dae4e3b173f8818633cb38d0d501ba703314823914b76](00992cb7a78a3dccb81dae4e3b173f8818633cb38d0d501ba703314823914b76.md)
+
+### Inputs
+
+Transaction | Output Index | Value | Address
+--- | --- | --- | ---
+0000000000000000000000000000000000000000000000000000000000000000 | 0 |  | Thin Air
+### Outputs
+
+Value | Address
+--- | ---
+10.00000000 SKEPTI | [SKE71ec2eeeec89627ded6b57efec8ea85a7087a4bbaf943195129e08d1faedb5b42a7f29ff1429ae6ade4ee57744dec1c4ec695a7520c0d0fcb81b4e490863d519PTI](SKE71ec2eeeec89627ded6b57efec8ea85a7087a4bbaf943195129e08d1faedb5b42a7f29ff1429ae6ade4ee57744dec1c4ec695a7520c0d0fcb81b4e490863d519PTI.md)

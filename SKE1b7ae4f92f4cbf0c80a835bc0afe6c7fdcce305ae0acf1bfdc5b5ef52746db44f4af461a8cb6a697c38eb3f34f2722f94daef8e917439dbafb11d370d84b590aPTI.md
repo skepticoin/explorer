@@ -1,0 +1,15 @@
+## SKE1b7ae4f92f4cbf0c80a835bc0afe6c7fdcce305ae0acf1bfdc5b5ef52746db44f4af461a8cb6a697c38eb3f34f2722f94daef8e917439dbafb11d370d84b590aPTI
+
+Current balance: 20.00000000 SKEPTI
+(as of block 51504)
+
+## Received in
+
+Transaction | Output Index
+--- | ---
+[9b68005fd48b3da90904ce146129c27f9c1d2c7ba480e4c135b7d2aff1131778](9b68005fd48b3da90904ce146129c27f9c1d2c7ba480e4c135b7d2aff1131778.md) | 0
+[73cdb54f8b34e025a5c49694046723933acc8650cebbe46394fce25307b22e57](73cdb54f8b34e025a5c49694046723933acc8650cebbe46394fce25307b22e57.md) | 0
+
+## Spent in
+
+-- not spent --

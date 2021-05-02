@@ -1,0 +1,20 @@
+## Block 01c2a3aee798a3c08af1ae5f81c7816dbacf74bfaa5f8e8fbd46faf79c7a9e71
+
+Attribute | Value
+--- | ---
+Height | 10535
+Hash | 01c2a3aee798a3c08af1ae5f81c7816dbacf74bfaa5f8e8fbd46faf79c7a9e71
+Timestamp | 2021-04-11T15:23:34+00:00
+Target | 01f8521521521521521521521521521521521521521521521521521521521521
+Merke root | 6363fee8898cacf7e4a564b7797a5366d8bb4ab8e1525a6f40e0da660ca20d4d
+Nonce | 1886139012
+
+```
+
+```
+
+### Transactions
+
+Hash | Amount
+--- | ---
+[6363fee8898cacf7e4a564b7797a5366d8bb4ab8e1525a6f40e0da660ca20d4d](6363fee8898cacf7e4a564b7797a5366d8bb4ab8e1525a6f40e0da660ca20d4d.md) | 10.00000000 SKEPTI 
