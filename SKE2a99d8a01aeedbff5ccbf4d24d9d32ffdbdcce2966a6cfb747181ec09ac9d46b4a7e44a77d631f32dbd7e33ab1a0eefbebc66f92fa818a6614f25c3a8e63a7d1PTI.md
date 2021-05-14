@@ -1,7 +1,7 @@
 ## SKE2a99d8a01aeedbff5ccbf4d24d9d32ffdbdcce2966a6cfb747181ec09ac9d46b4a7e44a77d631f32dbd7e33ab1a0eefbebc66f92fa818a6614f25c3a8e63a7d1PTI
 
 Current balance: 10.00000000 SKEPTI
-(as of block 51504)
+(as of block 69109)
 
 ## Received in
 
